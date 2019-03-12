@@ -1,5 +1,5 @@
 Quick start
 $ git clone https://github.com/sh-happens/Random-Quote-Machine.git
-$ cd esf-web-client
+$ cd Random-Quote-Machine/
 $ npm install
 $ npm start
